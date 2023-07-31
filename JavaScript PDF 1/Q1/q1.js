@@ -1,3 +1,3 @@
 function q1() {
-  alert("ai");
+  alert("wut?");
 }
